@@ -1,0 +1,11 @@
+C:\Users\nanjo\source\repos\NetCoreLogging\NetCoreLogger\obj\Debug\netcoreapp2.2\NetCoreLogger.csproj.CoreCompileInputs.cache
+C:\Users\nanjo\source\repos\NetCoreLogging\NetCoreLogger\obj\Debug\netcoreapp2.2\NetCoreLogger.AssemblyInfoInputs.cache
+C:\Users\nanjo\source\repos\NetCoreLogging\NetCoreLogger\obj\Debug\netcoreapp2.2\NetCoreLogger.AssemblyInfo.cs
+C:\Users\nanjo\source\repos\NetCoreLogging\NetCoreLogger\bin\Debug\netcoreapp2.2\NetCoreLogger.deps.json
+C:\Users\nanjo\source\repos\NetCoreLogging\NetCoreLogger\bin\Debug\netcoreapp2.2\NetCoreLogger.dll
+C:\Users\nanjo\source\repos\NetCoreLogging\NetCoreLogger\bin\Debug\netcoreapp2.2\NetCoreLogger.runtimeconfig.json
+C:\Users\nanjo\source\repos\NetCoreLogging\NetCoreLogger\bin\Debug\netcoreapp2.2\NetCoreLogger.runtimeconfig.dev.json
+C:\Users\nanjo\source\repos\NetCoreLogging\NetCoreLogger\bin\Debug\netcoreapp2.2\NetCoreLogger.pdb
+C:\Users\nanjo\source\repos\NetCoreLogging\NetCoreLogger\obj\Debug\netcoreapp2.2\NetCoreLogger.dll
+C:\Users\nanjo\source\repos\NetCoreLogging\NetCoreLogger\obj\Debug\netcoreapp2.2\NetCoreLogger.pdb
+C:\Users\nanjo\source\repos\NetCoreLogging\NetCoreLogger\obj\Debug\netcoreapp2.2\NetCoreLogger.csprojAssemblyReference.cache

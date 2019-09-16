@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "b2d98aaf541df0b702a69ac15ec9e2f7f3bbeab4"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "NetCoreLogger/1.0.0": {
+        "dependencies": {
+          "CorrelationId": "2.1.0"
+        },
+        "runtime": {
+          "NetCoreLogger.dll": {}
+        }
+      },
+      "CorrelationId/2.1.0": {
+        "runtime": {
+          "lib/netstandard1.4/CorrelationId.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreLogger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CorrelationId/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bj0/DmsGA3L62CnM3z5p2HsUpyfNpi8ZvIS2scQIChmz6BH4sGaN+wliBZy64TocAZhFFy9OUkBalYGl1xvvsA==",
+      "path": "correlationid/2.1.0",
+      "hashPath": "correlationid.2.1.0.nupkg.sha512"
+    }
+  }
+}
